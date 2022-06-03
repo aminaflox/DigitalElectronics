@@ -1,5 +1,5 @@
 # DigitalElectronics
-## This paper presents a cost-effective design of intelligent waste container for small-scale  cases. This project is based on an Arduino Mega board and an ultrasonic sensor to monitor movement of the hand to open trash bin lid. The system is plugged to socket via cable. System perfomance was found satisfactory to the obtained test results during one week.
+## This is description of intelligent waste container for small-scale  cases. Project is based on an Arduino Mega board and an ultrasonic sensor to monitor movement of the hand to open trash bin lid. The system is plugged to socket via cable. System perfomance was found satisfactory to the obtained test results during one week.
 ___ 
 ```c++
 int echo = 6;
@@ -48,3 +48,17 @@ void loop() {
   }
 }
 ```
+___ 
+
+
+https://user-images.githubusercontent.com/98947733/171790715-71a9ae35-bcbe-4ef0-9265-d797bb71fc92.mp4
+___
+
+
+https://user-images.githubusercontent.com/98947733/171791704-2354009d-aecd-469b-bdfb-6832f223ab7a.mp4
+
+___
+![photo5247208528626694238](https://user-images.githubusercontent.com/98947733/171791837-b397047d-eb93-4171-a4f7-ba1efef69f12.jpg)
+___
+![photo5244523246353759488](https://user-images.githubusercontent.com/98947733/171792169-e93356ad-9d4f-4ffa-a7db-ac70b7033636.jpg)
+
